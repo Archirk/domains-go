@@ -1,3 +1,3 @@
-module github.com/selectel/domains-go
+module github.com/archirk/domains-go
 
 go 1.15

@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/selectel/domains-go/pkg/testutils"
-	"github.com/selectel/domains-go/pkg/v1/record"
+	"github.com/archirk/domains-go/pkg/testutils"
+	"github.com/archirk/domains-go/pkg/v1/record"
 )
 
 const (

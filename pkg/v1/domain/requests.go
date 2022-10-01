@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	v1 "github.com/selectel/domains-go/pkg/v1"
+	v1 "github.com/archirk/domains-go/pkg/v1"
 )
 
 // GetByID returns a single domain by its id.

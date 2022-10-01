@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/selectel/domains-go/pkg/v1/domain"
+import "github.com/archirk/domains-go/pkg/v1/domain"
 
 const (
 	testDomainID   = 123

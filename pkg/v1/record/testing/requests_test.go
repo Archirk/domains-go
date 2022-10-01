@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/selectel/domains-go/pkg/testutils"
-	v1 "github.com/selectel/domains-go/pkg/v1"
-	"github.com/selectel/domains-go/pkg/v1/record"
+	"github.com/archirk/domains-go/pkg/testutils"
+	v1 "github.com/archirk/domains-go/pkg/v1"
+	"github.com/archirk/domains-go/pkg/v1/record"
 )
 
 func TestGet(t *testing.T) {

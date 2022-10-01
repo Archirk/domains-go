@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/selectel/domains-go/pkg/testutils"
+	"github.com/archirk/domains-go/pkg/testutils"
 )
 
 func TestNewDomainsClientV1(t *testing.T) {

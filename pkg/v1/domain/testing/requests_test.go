@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/selectel/domains-go/pkg/testutils"
-	v1 "github.com/selectel/domains-go/pkg/v1"
-	"github.com/selectel/domains-go/pkg/v1/domain"
+	"github.com/archirk/domains-go/pkg/testutils"
+	v1 "github.com/archirk/domains-go/pkg/v1"
+	"github.com/archirk/domains-go/pkg/v1/domain"
 )
 
 func TestGetByID(t *testing.T) {
